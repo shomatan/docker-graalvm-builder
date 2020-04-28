@@ -1,4 +1,4 @@
-FROM oracle/graalvm-ce:19.2.1
+FROM oracle/graalvm-ce:20.0.0
 
 LABEL maintainer "Shoma Nishitateno <shoma416@gmail.com>"
 
